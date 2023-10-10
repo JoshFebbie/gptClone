@@ -6,6 +6,12 @@
   .infoText {
     @apply px-4 bg-gray-700/50 py-2 rounded-lg max-w-[300px];
   }
+
+  .chatRow {
+    @apply text-white rounded-lg px-5 py-3 text-sm flex items-center  bg-[#282730]
+    justify-center space-x-2 hover:bg-[#1e997b] cursor-pointer
+    transition-all duration-200 ease-in-out;
+  }
 }
 
 /* :root {

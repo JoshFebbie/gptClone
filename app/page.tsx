@@ -37,7 +37,7 @@ function HomePage () {
         </div>
         <div>
           <div className="flex flex-col items-center justify-center mb-5">
-            {/* Sun Icon */}
+            {/* Triangle Icon */}
             <ExclamationTriangleIcon className="h-8 w-8 text-[#f1791e]" />
             <h2>Limitations:</h2>
           </div>
